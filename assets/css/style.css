@@ -2632,8 +2632,16 @@ hr {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.header-area .header-bottom .logo {
 		padding: 0px 0px;
-		margin-right: 10px
-		width:195px
+		margin-right: 10px;
+		width:195px;
+		margin-top:28px;
+	}
+}
+@media only screen and (max-width: 991px) {
+	.header-area .header-bottom .logo {
+		padding: 0px 0px;
+		margin-right: 10px;
+		width:195px;
 		margin-top:28px;
 	}
 }
@@ -7033,4 +7041,16 @@ del {
 .logo3{
 	width:100%;
 	height:100%;
+}
+
+.center{
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.centerVertical{
+	height:50%;
+	margin-top:auto;
+	margin-bottom:auto;
 }
