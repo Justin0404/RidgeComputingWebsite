@@ -3325,7 +3325,6 @@ hr {
 }
 
 .about-area .about-img .about-font-img {
-	position: absolute;
 	z-index: 0;
 	left: 0
 }
@@ -7039,6 +7038,7 @@ del {
 }
 
 .logo3{
+	max-height:100%;
 	width:100%;
 	height:100%;
 }
