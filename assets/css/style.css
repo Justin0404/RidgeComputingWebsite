@@ -7054,3 +7054,11 @@ del {
 	margin-top:auto;
 	margin-bottom:auto;
 }
+
+.centerText{
+	text-align:center;
+}
+
+img{
+	width:100%;
+}
